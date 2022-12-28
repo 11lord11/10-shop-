@@ -1,0 +1,54 @@
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\shop.exe.config
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\shop.exe
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\shop.pdb
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Buffers.dll
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Memory.dll
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Text.Json.dll
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.ValueTuple.dll
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Buffers.xml
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Memory.xml
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Text.Json.xml
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\konstantin\source\repos\shop\shop\bin\Debug\System.ValueTuple.xml
+C:\Users\konstantin\source\repos\shop\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+C:\Users\konstantin\source\repos\shop\shop\obj\Debug\shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\konstantin\source\repos\shop\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+C:\Users\konstantin\source\repos\shop\shop\obj\Debug\shop.csproj.CopyComplete
+C:\Users\konstantin\source\repos\shop\shop\obj\Debug\shop.exe
+C:\Users\konstantin\source\repos\shop\shop\obj\Debug\shop.pdb
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\shop.exe.config
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\shop.exe
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Text.Json.dll
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Text.Json.xml
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\obj\Debug\shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\obj\Debug\shop.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\obj\Debug\shop.exe
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\obj\Debug\shop.pdb
+C:\Users\User\OneDrive\Рабочий стол\shop\shop\bin\Debug\shop.pdb
